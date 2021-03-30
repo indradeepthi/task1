@@ -8,7 +8,8 @@ noodles
 
 pizza
 beans
-
+dosa
+idly
 
 thank you
 Done with my changes
